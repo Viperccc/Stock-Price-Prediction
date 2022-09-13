@@ -1,4 +1,3 @@
-# Stock-Price-Prediction
 # Stock Price Prediction
 
 A curated list of deep learning stock price prediction since 2017
