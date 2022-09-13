@@ -6,8 +6,7 @@ A curated list of deep learning stock price prediction since 2017
 
 ## Background
 
-Alternative data for stock price prediction. I believe stock price prediction is very important for the fusion of finance and deep learning, or it is the future of the finance. So before we start to do the research of stock price prediction, we need to know the related work and some classical papers for stock price prediction. What is the data type and the common used model types (e.g. LSTM..). Therefore, I decided to make a repository of a list of deep learning stock price prediction papers and codes to help others. Hope we can cotinue to do this year by year.
-
+Alternative data for stock price prediction. I believe stock price prediction is very important for the fusion of finance and deep learning, or it is the future of the finance. So before we start to do the research of stock price prediction, we need to know the related work and some classical papers for stock price prediction. What is the data type and the common used model types (e.g. LSTM..). Therefore, I decided to make a repository of a list of deep learning stock price prediction papers and codes.
 
 
 ## Paper&Code
